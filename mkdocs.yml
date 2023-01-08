@@ -58,6 +58,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+  custom_dir: overrides
+
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -77,8 +79,9 @@ extra:
       link: https://github.com/RS-BaoYan/RS-BaoYan.github.io/
 
 
+
 nav:
-  - Introducton: "Introduction.md"
+  - Introducton: "index.md"
   - 前言: "前言.md"
   - 0 初探保研:
     - 何为保研: "初探保研/何为保研.md"
@@ -95,3 +98,4 @@ nav:
   - 3 经验分享:
     - 2021年:
       - 跨保记录-cs相关也不太相关的专业: "经验分享/跨保记录-cs相关也不太相关的专业.md"
+  - 后记: "后记.md"
