@@ -33,8 +33,6 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
-    - content.action.edit
-    - content.action.view
 
   palette:
     - media: "(prefers-color-scheme: light)"
