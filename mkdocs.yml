@@ -1,0 +1,6 @@
+site_name: RS-BaoYan
+
+copyright: Copyright &copy; 2023-present <a href="https://github.com/RS-BaoYan" target="_blank" rel="noopener noreferrer">RS-BaoYan</a>
+
+theme:
+  name: material
