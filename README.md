@@ -8,6 +8,8 @@
 
 熟悉 Github Pull requests 的同学可以直接把自己经验贴（.md格式）添加了后，并在 [mkdocs.yml](https://github.com/RS-BaoYan/RS-BaoYan.github.io/blob/3236de721fea71a63df289901de12c0d115c0005/mkdocs.yml#L81) 文件中添加其navigation后，再进行 PR，记得保证版本与仓库一致。
 
+也可以直接将相应的经验贴发送至邮箱 2019302130011@whu.edu.cn
+
 当然，如果你对本仓库的任何板块，例如复习资料、推荐资料等，想要贡献或者提建议，我们也十分欢迎 PR 和 Issue
 
 ## 本地运行
