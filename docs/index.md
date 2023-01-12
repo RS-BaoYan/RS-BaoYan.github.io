@@ -7,4 +7,4 @@
 
 ## 致谢
 
-@[查理巧克力工厂](https://www.zhihu.com/people/cha-li-qiao-ke-li-gong-han-77) @柯学大院
+@[查理巧克力工厂](https://www.zhihu.com/people/cha-li-qiao-ke-li-gong-han-77) @柯学大院 @记忆
