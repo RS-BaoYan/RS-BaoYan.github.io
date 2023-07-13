@@ -4,7 +4,7 @@
 ## Contribution
 我们正在收集2019级同学保研经验贴，欢迎大家 Star & Fork！
 
-为了能给学弟学妹们更详细的参考与帮助，现在面向全群征集大家公开在社交媒体平台的保研经验贴（知乎、CSDN 等均可）
+为了能给学弟学妹们更详细的参考与帮助，现在面向全网征集大家公开在社交媒体平台的保研经验贴（知乎、CSDN 等均可）
 
 熟悉 Github Pull requests 的同学可以直接把自己经验贴（.md格式）添加了后，并在 [mkdocs.yml](https://github.com/RS-BaoYan/RS-BaoYan.github.io/blob/3236de721fea71a63df289901de12c0d115c0005/mkdocs.yml#L81) 文件中添加其navigation后，再进行 PR，记得保证版本与仓库一致。
 
